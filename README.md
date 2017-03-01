@@ -1,8 +1,6 @@
 #廣宣學堂 Docker 入門班 by 2017-03-04 Philipz
 
-##[First day slide](https://goo.gl/f1yO0d)
-##[Second day slide](https://goo.gl/rnQpPn)
-##[Third day slide](https://goo.gl/xAOMqa)
+##[slide](https://goo.gl/ChHVNL)
 
 [Docker scoop](http://docker-software-inc.scoop.it/t/docker-by-docker)
 
