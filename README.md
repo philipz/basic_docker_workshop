@@ -5,3 +5,5 @@
 [Docker scoop](http://docker-software-inc.scoop.it/t/docker-by-docker)
 
 [Scalable Microservices with Kubernetes - Udacity](https://classroom.udacity.com/courses/ud615/)
+
+[Azure 價格計算機](https://azure.microsoft.com/zh-tw/pricing/calculator/)
