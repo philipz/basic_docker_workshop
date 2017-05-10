@@ -1,10 +1,10 @@
-﻿#廣宣學堂 Docker 入門班@台中 by 2017-05-07 Philipz
+﻿# 廣宣學堂 Docker 入門班@台中 by 2017-05-07 Philipz
 
-##[slide](./Docker_Workshop_0507.pdf)
+## [slide](./Docker_Workshop_0507.pdf)
 
-#東吳大學數學系 台北 Docker 一日入門篇 by 2017-05-21 Philipz
+# 東吳大學數學系 台北 Docker 一日入門篇 by 2017-05-21 Philipz
 
-##[slide](./Docker_Workshop_0521.pdf)
+## [slide](./Docker_Workshop_0521.pdf)
 
 [Docker scoop](http://docker-software-inc.scoop.it/t/docker-by-docker)
 
